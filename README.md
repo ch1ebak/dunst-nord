@@ -1,1 +1,1 @@
-moved to https://codeberg.org/ch1ebak/dunst-themes
+moved to https://codeberg.org/chlebak/dunst-themes
